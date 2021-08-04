@@ -48,3 +48,28 @@ export const userData = [
       "Active User": 3340
     },
   ];
+
+
+
+
+export const userRows = [
+  { id: 1, userName: 'Jon now', email: 'jon@gmail.com', avatar:'https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500', status: 'active', transaction:'$120.00'},
+  { id: 2, userName: 'Jon now', email: 'jon@gmail.com', avatar:'https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500', status: 'active', transaction:'$120.00'},
+  { id: 3, userName: 'Jon now', email: 'jon@gmail.com', avatar:'https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500', status: 'active', transaction:'$120.00'},
+  { id: 4, userName: 'Jon now', email: 'jon@gmail.com', avatar:'https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500', status: 'active', transaction:'$120.00'},
+  { id: 5, userName: 'Jon now', email: 'jon@gmail.com', avatar:'https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500', status: 'active', transaction:'$120.00'},
+  { id: 6, userName: 'Jon now', email: 'jon@gmail.com', avatar:'https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500', status: 'active', transaction:'$120.00'},
+  { id: 7, userName: 'Jon now', email: 'jon@gmail.com', avatar:'https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500', status: 'active', transaction:'$120.00'},
+  { id: 8, userName: 'Jon now', email: 'jon@gmail.com', avatar:'https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500', status: 'active', transaction:'$120.00'},
+  { id: 9, userName: 'Jon now', email: 'jon@gmail.com', avatar:'https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500', status: 'active', transaction:'$120.00'},
+  { id: 10, userName: 'Jon now', email: 'jon@gmail.com', avatar:'https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500', status: 'active', transaction:'$120.00'},
+  { id: 11, userName: 'Jon now', email: 'jon@gmail.com', avatar:'https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500', status: 'active', transaction:'$120.00'},
+  { id: 12, userName: 'Jon now', email: 'jon@gmail.com', avatar:'https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500', status: 'active', transaction:'$120.00'},
+  { id: 13, userName: 'Jon now', email: 'jon@gmail.com', avatar:'https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500', status: 'active', transaction:'$120.00'},
+  { id: 14, userName: 'Jon now', email: 'jon@gmail.com', avatar:'https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500', status: 'active', transaction:'$120.00'},
+  { id: 15, userName: 'Jon now', email: 'jon@gmail.com', avatar:'https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500', status: 'active', transaction:'$120.00'},
+  { id: 16, userName: 'Jon now', email: 'jon@gmail.com', avatar:'https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500', status: 'active', transaction:'$120.00'},
+  { id: 17, userName: 'Jon now', email: 'jon@gmail.com', avatar:'https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500', status: 'active', transaction:'$120.00'},
+  { id: 18, userName: 'Jon now', email: 'jon@gmail.com', avatar:'https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500', status: 'active', transaction:'$120.00'},
+
+];
