@@ -49,7 +49,20 @@ export const userData = [
     },
   ];
 
-
+  export const productData = [
+    {
+      name: 'Jan',
+      "Sales": 4000
+    },
+    {
+      name: 'Feb',
+      "Sales": 3000
+    },
+    {
+      name: 'Mar',
+      "Sales": 2000
+    },
+  ];
 
 
 export const userRows = [
@@ -71,5 +84,28 @@ export const userRows = [
   { id: 16, userName: 'Jon now', email: 'jon@gmail.com', avatar:'https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500', status: 'active', transaction:'$120.00'},
   { id: 17, userName: 'Jon now', email: 'jon@gmail.com', avatar:'https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500', status: 'active', transaction:'$120.00'},
   { id: 18, userName: 'Jon now', email: 'jon@gmail.com', avatar:'https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500', status: 'active', transaction:'$120.00'},
+
+];
+
+
+export const productRows = [
+  { id: 1, name: 'Apple', stock: 123, img:'https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500', status: 'active', price:'$120.00'},
+  { id: 2, name: 'Apple', stock: 123, img:'https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500', status: 'active', price:'$120.00'},
+  { id: 3, name: 'Apple', stock: 123, img:'https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500', status: 'active', price:'$120.00'},
+  { id: 4, name: 'Apple', stock: 123, img:'https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500', status: 'active', price:'$120.00'},
+  { id: 5, name: 'Apple', stock: 123, img:'https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500', status: 'active', price:'$120.00'},
+  { id: 6, name: 'Apple', stock: 123, img:'https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500', status: 'active', price:'$120.00'},
+  { id: 7, name: 'Apple', stock: 123, img:'https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500', status: 'active', price:'$120.00'},
+  { id: 8, name: 'Apple', stock: 123, img:'https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500', status: 'active', price:'$120.00'},
+  { id: 9, name: 'Apple', stock: 123, img:'https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500', status: 'active', price:'$120.00'},
+  { id: 10, name: 'Apple', stock: 123, img:'https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500', status: 'active', price:'$120.00'},
+  { id: 11, name: 'Apple', stock: 123, img:'https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500', status: 'active', price:'$120.00'},
+  { id: 12, name: 'Apple', stock: 123, img:'https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500', status: 'active', price:'$120.00'},
+  { id: 13, name: 'Apple', stock: 123, img:'https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500', status: 'active', price:'$120.00'},
+  { id: 14, name: 'Apple', stock: 123, img:'https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500', status: 'active', price:'$120.00'},
+  { id: 15, name: 'Apple', stock: 123, img:'https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500', status: 'active', price:'$120.00'},
+  { id: 16, name: 'Apple', stock: 123, img:'https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500', status: 'active', price:'$120.00'},
+  { id: 17, name: 'Apple', stock: 123, img:'https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500', status: 'active', price:'$120.00'},
+  { id: 18, name: 'Apple', stock: 123, img:'https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500', status: 'active', price:'$120.00'},
 
 ];
