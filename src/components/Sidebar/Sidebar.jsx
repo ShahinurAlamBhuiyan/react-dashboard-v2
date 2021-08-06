@@ -27,7 +27,6 @@ const Sidebar = () => {
               <LineStyle className="sidebarIcon" />
               Home
             </Link>
-            {/* </Link> */}
             <li className="sidebarListItem">
               <Timeline className="sidebarIcon" />
               Analytics
