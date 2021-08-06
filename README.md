@@ -14,4 +14,4 @@ This demo is done with fakedata...
 + Recharts
 
 ### Take a look :)
-![alt_text](public/siteSS.png)
+![site_SS](public/siteSSS.png)
